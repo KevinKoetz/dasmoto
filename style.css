@@ -2,7 +2,7 @@ body {
     font-family: Helvetica;
 }
 
-header {
+header h1 {
     font-size: 100px;
     font-weight: bold;
     color: khaki;
@@ -16,15 +16,15 @@ h2 {
     color: white;
 }
 
-#brushes {
+#brushes h2{
    background-color: mediumspringgreen;
 }
 
-#frames {
+#frames h2{
     background-color: lightcoral;
  }
 
-#paint {
+#paint h2{
     background-color: skyblue;
  }
 
